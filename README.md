@@ -1,1 +1,1 @@
-# vitar81-goit-js-hw-06-
+# vitar81-goit-js-hw-06
